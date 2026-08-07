@@ -6,3 +6,5 @@ name = input("Please,Enter your name!! ").strip().title()
 
 #printing user's name.
 print(f"Hi, how are you {name}")
+
+
