@@ -37,3 +37,4 @@ print(list)
 #So, this is how we change variables inside a lists
 
 #Next ,we will look at how to add things to a list.
+
