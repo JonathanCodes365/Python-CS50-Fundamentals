@@ -47,3 +47,5 @@ print(name[6][1])
 #we just do 
 
 #name.append("Rai")
+
+#up next-- > we are doing .extend mothod in a list.
