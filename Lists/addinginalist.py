@@ -33,3 +33,17 @@ print(name[6])
 
 #if i want to print Tara Moktan
 print(name[6][1])
+
+
+#Finally, i forgot to add :
+#we cannot do name = name.append("Rai")
+
+#although name.append("Rai") must add a new str called Rai inside the list called name.
+#It returns nothing 
+
+#so when we do name = nothing..
+#This doesnt turn out well.
+#so if we want to add/append new stuff
+#we just do 
+
+#name.append("Rai")
