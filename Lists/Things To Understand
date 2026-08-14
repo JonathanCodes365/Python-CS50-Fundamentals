@@ -1,0 +1,19 @@
+Where do we use an index??
+    numbers[index] = value...
+    To find or access a value.. we must use index.
+
+* Remove() --> what value
+We directly insert a certain value to remove 
+
+* Insert () --> What to insert and where to insert?
+So we need to give both the index(location) and the value.
+
+* Append () --> What to append?
+So we need value only.
+
+* Extend() --> What to extend and Where to Extend?
+In a simple list we just simply need to give value to extend.
+If it is a nested list and we want to point out the list to be extended..-> We give the Location/Index.
+
+* pop() --> Where to pop?
+When we want to pop something ; we want to pop something which is occupying the index value.
